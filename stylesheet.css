@@ -2,10 +2,15 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  
+  color: #6B6B6B;
+}
+
+h1 {
   
 }
+
 p {
   font-style: default;
   font-size: 16.9 px;
+  color: #6B6B6B;
 }
