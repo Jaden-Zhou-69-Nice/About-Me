@@ -7,11 +7,13 @@ body {
 }
 
 h1 {
+  font-style: default;
+  font-size: 24px;
   color: #6B6B6B;
 }
 
 p {
   font-style: default;
-  font-size: 16.9 px;
+  font-size: 16.9px;
   color: #6B6B6B;
 }
