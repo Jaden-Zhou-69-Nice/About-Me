@@ -26,5 +26,7 @@ p {
   color: #6B6B6B;
 }
 
-.navbar { 
+.navbar {
+  overflow:hidden;
+  background-color: #000000;
 }
